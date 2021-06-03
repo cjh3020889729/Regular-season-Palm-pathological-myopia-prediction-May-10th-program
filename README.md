@@ -32,3 +32,8 @@
 
 * PaddlePaddle 2.0.2
 * opencv > 3.2
+
+## 运行说明
+
+运行流程在方案.ipynb文件中，TNT.py为模型源代码。
+数据集等在AI Studio平台上，可前往查询数据集下载进行合并（或参考AI Studio项目: <a href="https://aistudio.baidu.com/aistudio/projectdetail/1886523" target="_blank"> 飞桨常规赛：PALM病理性近视预测 5月第10名方案 </a>）。
